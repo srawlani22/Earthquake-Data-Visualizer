@@ -12,7 +12,7 @@ Welcome to the Seismology Application project! Follow the steps below to set up 
 ### 1. Clone or Download the Project
 
 - **Clone the Repository**:
-  git clone https://github.com/yourusername/seismologyApp.git
+  git clone https://github.com/yourusername/Earthquake-Data-Visualizer.git
 
 - **Alternatively, Download as ZIP**:
   - Go to the GitHub repository page.
@@ -22,7 +22,7 @@ Welcome to the Seismology Application project! Follow the steps below to set up 
 
 ### 2. Install Required Packages
 
-Open your python compiler/IDE, and then,install the following packages: (I recommed using PyCharm to build the entire project)
+Open your Python compiler/IDE, and then, install the following packages: (I recommend using PyCharm to build the entire project)
 - PyQT5
 - obspy
 - matplotlib
